@@ -4,5 +4,3 @@
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Imszy17&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Imszy17)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Imszy17)
-
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Imszy17&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Imszy17)
